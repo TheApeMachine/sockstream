@@ -1,8 +1,5 @@
 # SockStream
 
-Video that explains things more:
-https://www.youtube.com/watch?v=otZd2lneleE
-
 This project is my continuing experimentation with streaming video data over web-sockets in binary format,
 and reconstructing the video frame on the client side.
 
